@@ -1,6 +1,6 @@
 ## Hi👋
 
-https://github-readme-stats.vercel.app/api?username=ShoneMidas
+([https://github-readme-stats.vercel.app/api?username=ShoneMidas])
 
 
 <!--
